@@ -25,10 +25,21 @@
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": "explicit"
     },
+<<<<<<< HEAD
+    "markdown.editor.filePaste.videoSnippet": "<video src=\"${src}\" title=\"${title}\" autoplay loop controls muted></video>",
+    "workbench.editor.autoLockGroups": {
+        "jupyter-notebook": true,
+        "mainThreadWebview-markdown.preview": true,
+        "repl": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "default": true
+    }
+=======
     "markdown.editor.filePaste.videoSnippet": "<video src=\"${src}\" title=\"${title}\" autoplay loop controls muted></video>",
 
     "doc-assistant.milestone": "February 2025",
 
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
 
+>>>>>>> 897cedd602ed804fefa38425303593d61db68c58
 }
